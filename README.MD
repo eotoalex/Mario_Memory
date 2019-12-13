@@ -3,7 +3,7 @@
 A game of clicks and giggles.
 
 # Links
-[Mario Memory Game](https://eotoalex.github.io/memory_game)
+[Mario Memory Game](https://hidden-woodland-83442.herokuapp.com/)
 <!-- [Demo]() -->
 
 # Technologies
