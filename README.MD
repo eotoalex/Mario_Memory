@@ -1,9 +1,9 @@
-## Clicky Express
+## Mario Memory Game
 
 A game of clicks and giggles.
 
 # Links
-[Mario Memory Game](https://eotoalex.github.io/memory_game/)
+[Mario Memory Game](https://eotoalex.github.io/memory_game)
 <!-- [Demo]() -->
 
 # Technologies
