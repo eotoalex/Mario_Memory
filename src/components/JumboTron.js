@@ -7,7 +7,8 @@ let styles = {
 };
 
 let font = {
-    color:"white"
+    color:"white",
+    fontFamily: "Lilita One, cursive",
 };
 
 let spacing = {
@@ -16,25 +17,19 @@ let spacing = {
 
 };
 
-
 class JumboTron extends React.Component {
-    
-
-
     render(){
         return(
-    <div className="jumbotron" style={styles}>
-        <nav className="nav">
-            <div className="text-container" style={spacing}>
-                <h1 style={font}>Clicky Game</h1> 
-                <h2 style={font}>Click on an image to earn points, but don't click on an image more than once!</h2> 
-            </div>
-        </nav>
-    </div>
-                 
+            <div className="jumbotron" style={styles}>
+                <nav className="nav">
+                    <div className="text-container" style={spacing}>
+                        <h1 style={font}>Clicky Game</h1> 
+                        <h2 style={font}>Click on an image to earn points, but don't click on an image more than once!</h2> 
+                    </div>
+                </nav>
+            </div>      
         );
     };
 };
 
-
-    export default JumboTron;
+export default JumboTron;
