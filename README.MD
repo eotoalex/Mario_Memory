@@ -1,6 +1,6 @@
 ## Mario Memory Game
 
-A game of clicks and giggles.
+A game of clicks and giggles, this memory game challenges your ability to simply remember what you've clicked. Are you up to the task? Are you worthy of being crowned click master?
 
 # Links
 [Mario Memory Game](https://hidden-woodland-83442.herokuapp.com/)
