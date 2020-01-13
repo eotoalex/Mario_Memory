@@ -3,8 +3,9 @@
 A game of clicks and giggles.
 
 # Links
-[Mario Memory Game](https://hidden-woodland-83442.herokuapp.com/)
-[Demo](https://youtu.be/DJXsn6v9W0I)
+>[Mario Memory Game](https://hidden-woodland-83442.herokuapp.com/)
+>
+>[Demo](https://youtu.be/DJXsn6v9W0I)
 
 # Technologies
 * Javascript
